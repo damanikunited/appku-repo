@@ -13,6 +13,6 @@ spec:
     spec:
       containers:
       - name: ct-appsku
-        image: damanikunited/apps-games
+        image: gandadam/apps-games
         ports:
         - containerPort: 80
