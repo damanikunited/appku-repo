@@ -9,7 +9,7 @@ spec:
   template:
     metadata:
       labels:
-        apps-type: appsku
+        app-type: appsku
     spec:
       containers:
       - name: ct-appsku
