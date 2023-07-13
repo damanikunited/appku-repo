@@ -13,6 +13,6 @@ spec:
     spec:
       containers:
       - name: ct-appsku
-        image: gandadam/apps-games
+        image: gandadam/apps-2048
         ports:
         - containerPort: 80
